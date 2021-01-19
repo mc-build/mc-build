@@ -36,6 +36,6 @@ $ npm i -g mc-build
 
 ### documentation
 
-[https://mcbuild.dev/docs](docs)
+[https://mcbuild.dev/docs](https://mcbuild.dev/docs)
 
 ### I as well as the mc-build project am not affiliated with Mojang in any way.
