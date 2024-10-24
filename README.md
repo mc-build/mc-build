@@ -1,3 +1,8 @@
+# THIS REPOSITORY IS DEPRICATED
+You can find the the new repository at [https://github.com/mc-build/mcb](https://github.com/mc-build/mcb)
+
+----
+
 <img src="https://raw.githubusercontent.com/IanSSenne/mcbuild/master/assets/MCB%20Title%20B.png" alt="MCB Banner"/>
 
 ## need help?
